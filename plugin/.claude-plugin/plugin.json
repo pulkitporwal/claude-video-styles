@@ -1,0 +1,8 @@
+{
+  "name": "film-styles",
+  "description": "Make a film in one of the library's code-rendered styles: your agent directs, draws, scores and mixes it.",
+  "author": { "name": "", "url": "#" },
+  "homepage": "#",
+  "repository": "#",
+  "license": "MIT"
+}

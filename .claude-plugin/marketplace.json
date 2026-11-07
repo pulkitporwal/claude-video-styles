@@ -1,0 +1,16 @@
+{
+  "name": "local",
+  "owner": {
+    "name": "local"
+  },
+  "metadata": {
+    "description": "Film styles for coding agents."
+  },
+  "plugins": [
+    {
+      "name": "film-styles",
+      "source": "./plugin",
+      "description": "Make a film in one of the library's code-rendered styles: your agent directs, draws, scores and mixes it."
+    }
+  ]
+}
